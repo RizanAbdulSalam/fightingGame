@@ -21,7 +21,6 @@ const updateGame = (p1, p2, gameState) => {
     }
 }
 
-
 class Player {
     constructor(name, health, attackDamage) {
         this.name = name;
