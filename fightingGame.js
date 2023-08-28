@@ -63,7 +63,6 @@ class Game {
             message = `${p1.name} WINS!`;
         }
 
-
         document.getElementById('victory').play()
  
         return message
