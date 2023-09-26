@@ -1,4 +1,4 @@
-
+//Updated Code!
 let playButton = document.getElementById('play')
 let resultDiv = document.getElementById('result')
 let p1NameDiv = document.getElementById('p1Name')
